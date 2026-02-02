@@ -1,0 +1,75 @@
+/* Navbar logo size */
+.main-menu .logo {
+  display: inline-block;
+}
+
+.main-menu .logo svg {
+  height: 2.5rem; /* Adjust logo height */
+  width: 2.5rem;
+}
+
+/* Navbar text/link size */
+.main-menu a {
+  font-size: 1rem; /* Adjust menu link size */
+}
+
+/* Site title size in header - specific selector to avoid affecting other elements */
+.main-menu > a.text-base {
+  font-size: 1.25rem; /* Adjust navbar title size */
+  font-weight: 600;
+}
+
+/* Home page logo size */
+.home-logo svg {
+  height: 8rem;
+  width: 8rem;
+}
+
+/* Contributor cards - disable zoom/scale effects */
+.contributor-card img {
+  pointer-events: none;
+  height: 5rem;
+  width: 5rem;
+}
+
+/* Bit-0 page - remove max-width constraints completely */
+article:has(.bit0-section) .prose,
+article:has(.bit0-section),
+.prose:has(.bit0-section),
+:has(.bit0-section) {
+  max-width: none !important;
+}
+
+/* Bit-0 hero section responsive layout */
+.bit0-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Desktop layout - image on right */
+@media (min-width: 768px) {
+  .bit0-section {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 3rem;
+  }
+  
+  .bit0-content {
+    flex: 1;
+    min-width: 0;
+  }
+  
+  .bit0-image {
+    flex-shrink: 0;
+    width: 400px;
+  }
+  
+  .bit0-hero {
+    max-width: 400px;
+  }
+}

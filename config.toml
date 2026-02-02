@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+title = 'BitCoLab'
+theme = 'blowfish'
+colorScheme = "fire"

@@ -1,0 +1,31 @@
+<!-- Homepage content from _index.md -->
+{{ with .Content }}
+  <div class="prose dark:prose-invert mx-auto">
+    {{ . }}
+  </div>
+{{ end }}
+
+<!-- Recent Articles -->
+{{ if .Site.Params.homepage.showRecent }}
+  <section class="mb-12">
+    {{ partial "recent-articles/main.html" . }}
+  </section>
+{{ end }}
+
+<!-- Contributors Section -->
+{{ partial "contributors.html" . }}
+
+<!-- Contact Section -->
+{{ if .Site.Params.contactEmail }}
+  <section class="mb-12 text-center">
+    <div class="prose dark:prose-invert mx-auto">
+      <h2>{{ .Site.Params.contactTitle }}</h2>
+      <p>{{ .Site.Params.contactMessage }} 
+        <a href="mailto:{{ .Site.Params.contactEmail }}" class="text-primary-600 dark:text-primary-400 hover:underline">
+          {{ .Site.Params.contactEmail }}
+        </a>
+      </p>
+    </div>
+  </section>
+{{ end }}
+

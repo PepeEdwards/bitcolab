@@ -1,0 +1,126 @@
+<svg id="canvas" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 600 600">
+<style>
+  :root {
+      --fill-1: #593A1C;
+      --fill-2: #784719;
+      --fill-3: #874E17;
+      --fill-4: #965415;
+      --fill-5: #B76211;
+      --fill-6: #FE8007;
+      --fill-7: #FF9C3F;
+      --fill-8: #FFB877;
+      --fill-9: #FFEFE6;
+  }
+  .fill-1 { fill: var(--fill-1); }
+  .fill-2 { fill: var(--fill-2); }
+  .fill-3 { fill: var(--fill-3); }
+  .fill-4 { fill: var(--fill-4); }
+  .fill-5 { fill: var(--fill-5); }
+  .fill-6 { fill: var(--fill-6); }
+  .fill-7 { fill: var(--fill-7); }
+  .fill-8 { fill: var(--fill-8); }
+  .fill-9 { fill: var(--fill-9); }
+</style>
+<rect width="600" height="600" fill="transparent"></rect><mask id="mask" mask-type="alpha" maskUnits="userSpaceOnUse"><rect transform="translate(0, 0)" width="600" height="600" fill="white"></rect></mask><svg><path transform="translate(0, 0 translate(30,30) rotate(180) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-1"></path></svg><svg><path transform="translate(0, 3600 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-7"></path></svg><svg><path transform="
+    translate(0, 120)
+    " d="M0 0h60v60H0z" class="fill-7"></path></svg><svg><path transform="translate(0, 10800 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-5"></path></svg><svg><path transform="translate(0,240) translate(30,30) rotate(270) translate(-30,-30)" class="fill-8" d="M60 0v60H0V0z"></path><path transform="translate(0,240) translate(30,30) rotate(270) translate(-30,-30)" class="fill-1" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(0, 300) translate(30,30) rotate(180) translate(-30,-30)" class="fill-2" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(0, 300) translate(30,30) rotate(180) translate(-30,-30)" class="fill-9"></circle></svg><svg><path transform="translate(0,360) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4" d="M60 0v60H0V0z"></path><path transform="translate(0,360) translate(30,30) rotate(90) translate(-30,-30)" class="fill-9" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(0, 25200 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-5"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(0, 480)
+    " class="fill-3
+    "></circle></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(0, 540)
+    " class="fill-7
+    "></circle></svg><svg><path transform="translate(3600, 0 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-8"></path></svg><svg><path transform="
+    translate(60, 60)
+    " d="M0 0h60v60H0z" class="fill-6"></path></svg><svg><path transform="
+    translate(60, 120)
+    " d="M0 0h60v60H0z" class="fill-7"></path></svg><svg><path transform="translate(3600, 10800 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-2"></path></svg><svg><path transform="translate(3600, 14400 translate(30,30) rotate(180) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-1"></path></svg><svg><path transform="
+    translate(60, 300)
+    " d="M0 0h60v60H0z" class="fill-5"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(60, 360)
+    " class="fill-1
+    "></circle></svg><svg><path transform="translate(60,420) translate(30,30) rotate(90) translate(-30,-30)" class="fill-7" d="M60 0v60H0V0z"></path><path transform="translate(60,420) translate(30,30) rotate(90) translate(-30,-30)" class="fill-5" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(60,480) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4" d="M60 0v60H0V0z"></path><path transform="translate(60,480) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(3600, 32400 translate(30,30) rotate(180) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-1"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(120, 0)
+    " class="fill-5
+    "></circle></svg><svg><path transform="translate(120,60) translate(30,30) rotate(180) translate(-30,-30)" class="fill-9" d="M60 0v60H0V0z"></path><path transform="translate(120,60) translate(30,30) rotate(180) translate(-30,-30)" class="fill-7" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(120, 120)
+    " class="fill-5
+    "></circle></svg><svg><path transform="translate(120, 180) translate(30,30) rotate(180) translate(-30,-30)" class="fill-6" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(120, 180) translate(30,30) rotate(180) translate(-30,-30)" class="fill-2"></circle></svg><svg><path transform="translate(120, 240) translate(30,30) rotate(180) translate(-30,-30)" class="fill-1" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(120, 240) translate(30,30) rotate(180) translate(-30,-30)" class="fill-5"></circle></svg><svg><path transform="translate(7200, 18000 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-7"></path></svg><svg><path transform="translate(7200, 21600 translate(30,30) rotate(90) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-2"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(120, 420)
+    " class="fill-2
+    "></circle></svg><svg><path transform="
+    translate(120, 480)
+    " d="M0 0h60v60H0z" class="fill-6"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(120, 540)
+    " class="fill-5
+    "></circle></svg><svg><path transform="translate(10800, 0 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-5"></path></svg><svg><path transform="
+    translate(180, 60)
+    " d="M0 0h60v60H0z" class="fill-2"></path></svg><svg><path transform="translate(180,120) translate(30,30) rotate(90) translate(-30,-30)" class="fill-8" d="M60 0v60H0V0z"></path><path transform="translate(180,120) translate(30,30) rotate(90) translate(-30,-30)" class="fill-5" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="
+    translate(180, 180)
+    " d="M0 0h60v60H0z" class="fill-4"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(180, 240)
+    " class="fill-7
+    "></circle></svg><svg><path transform="translate(180,300) translate(30,30) rotate(0) translate(-30,-30)" class="fill-4" d="M60 0v60H0V0z"></path><path transform="translate(180,300) translate(30,30) rotate(0) translate(-30,-30)" class="fill-2" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="
+    translate(180, 360)
+    " d="M0 0h60v60H0z" class="fill-5"></path></svg><svg><path transform="
+    translate(180, 420)
+    " d="M0 0h60v60H0z" class="fill-7"></path></svg><svg><path transform="
+    translate(180, 480)
+    " d="M0 0h60v60H0z" class="fill-3"></path></svg><svg><path transform="translate(10800, 32400 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-8"></path></svg><svg><path transform="translate(14400, 0 translate(30,30) rotate(180) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-3"></path></svg><svg><path transform="translate(240, 60) translate(30,30) rotate(180) translate(-30,-30)" class="fill-4" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(240, 60) translate(30,30) rotate(180) translate(-30,-30)" class="fill-2"></circle></svg><svg><path transform="
+    translate(240, 120)
+    " d="M0 0h60v60H0z" class="fill-4"></path></svg><svg><path transform="
+    translate(240, 180)
+    " d="M0 0h60v60H0z" class="fill-5"></path></svg><svg><path transform="translate(14400, 14400 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-9"></path></svg><svg><path transform="
+    translate(240, 300)
+    " d="M0 0h60v60H0z" class="fill-4"></path></svg><svg><path transform="translate(240, 360) translate(30,30) rotate(270) translate(-30,-30)" class="fill-3" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(240, 360) translate(30,30) rotate(270) translate(-30,-30)" class="fill-8"></circle></svg><svg><path transform="translate(240,420) translate(30,30) rotate(270) translate(-30,-30)" class="fill-2" d="M60 0v60H0V0z"></path><path transform="translate(240,420) translate(30,30) rotate(270) translate(-30,-30)" class="fill-5" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(240,480) translate(30,30) rotate(180) translate(-30,-30)" class="fill-6" d="M60 0v60H0V0z"></path><path transform="translate(240,480) translate(30,30) rotate(180) translate(-30,-30)" class="fill-4" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(240, 540)
+    " class="fill-7
+    "></circle></svg><svg><path transform="translate(18000, 0 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-3"></path></svg><svg><path transform="
+    translate(300, 60)
+    " d="M0 0h60v60H0z" class="fill-2"></path></svg><svg><path transform="translate(18000, 7200 translate(30,30) rotate(90) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-8"></path></svg><svg><path transform="
+    translate(300, 180)
+    " d="M0 0h60v60H0z" class="fill-9"></path></svg><svg><path transform="translate(300,240) translate(30,30) rotate(270) translate(-30,-30)" class="fill-4" d="M60 0v60H0V0z"></path><path transform="translate(300,240) translate(30,30) rotate(270) translate(-30,-30)" class="fill-4" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="
+    translate(300, 300)
+    " d="M0 0h60v60H0z" class="fill-1"></path></svg><svg><path transform="translate(18000, 21600 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-6"></path></svg><svg><path transform="
+    translate(300, 420)
+    " d="M0 0h60v60H0z" class="fill-7"></path></svg><svg><path transform="translate(18000, 28800 translate(30,30) rotate(90) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-2"></path></svg><svg><path transform="translate(300,540) translate(30,30) rotate(0) translate(-30,-30)" class="fill-6" d="M60 0v60H0V0z"></path><path transform="translate(300,540) translate(30,30) rotate(0) translate(-30,-30)" class="fill-7" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(360,0) translate(30,30) rotate(270) translate(-30,-30)" class="fill-3" d="M60 0v60H0V0z"></path><path transform="translate(360,0) translate(30,30) rotate(270) translate(-30,-30)" class="fill-7" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(360, 60)
+    " class="fill-9
+    "></circle></svg><svg><path transform="translate(360,120) translate(30,30) rotate(180) translate(-30,-30)" class="fill-9" d="M60 0v60H0V0z"></path><path transform="translate(360,120) translate(30,30) rotate(180) translate(-30,-30)" class="fill-4" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="
+    translate(360, 180)
+    " d="M0 0h60v60H0z" class="fill-3"></path></svg><svg><path transform="translate(360,240) translate(30,30) rotate(270) translate(-30,-30)" class="fill-5" d="M60 0v60H0V0z"></path><path transform="translate(360,240) translate(30,30) rotate(270) translate(-30,-30)" class="fill-5" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(360, 300) translate(30,30) rotate(180) translate(-30,-30)" class="fill-4" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(360, 300) translate(30,30) rotate(180) translate(-30,-30)" class="fill-2"></circle></svg><svg><path transform="
+    translate(360, 360)
+    " d="M0 0h60v60H0z" class="fill-8"></path></svg><svg><path transform="translate(360,420) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4" d="M60 0v60H0V0z"></path><path transform="translate(360,420) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(360, 480)
+    " class="fill-8
+    "></circle></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(360, 540)
+    " class="fill-8
+    "></circle></svg><svg><path transform="translate(420,0) translate(30,30) rotate(270) translate(-30,-30)" class="fill-2" d="M60 0v60H0V0z"></path><path transform="translate(420,0) translate(30,30) rotate(270) translate(-30,-30)" class="fill-4" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(25200, 3600 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-4"></path></svg><svg><path transform="
+    translate(420, 120)
+    " d="M0 0h60v60H0z" class="fill-6"></path></svg><svg><path transform="translate(420,180) translate(30,30) rotate(90) translate(-30,-30)" class="fill-3" d="M60 0v60H0V0z"></path><path transform="translate(420,180) translate(30,30) rotate(90) translate(-30,-30)" class="fill-2" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(25200, 14400 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-6"></path></svg><svg><path transform="translate(420,300) translate(30,30) rotate(180) translate(-30,-30)" class="fill-5" d="M60 0v60H0V0z"></path><path transform="translate(420,300) translate(30,30) rotate(180) translate(-30,-30)" class="fill-6" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(25200, 21600 translate(30,30) rotate(180) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-2"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(420, 420)
+    " class="fill-2
+    "></circle></svg><svg><path transform="translate(420,480) translate(30,30) rotate(90) translate(-30,-30)" class="fill-8" d="M60 0v60H0V0z"></path><path transform="translate(420,480) translate(30,30) rotate(90) translate(-30,-30)" class="fill-9" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="
+    translate(420, 540)
+    " d="M0 0h60v60H0z" class="fill-8"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(480, 0)
+    " class="fill-1
+    "></circle></svg><svg><path transform="
+    translate(480, 60)
+    " d="M0 0h60v60H0z" class="fill-2"></path></svg><svg><path transform="translate(28800, 7200 translate(30,30) rotate(270) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-5"></path></svg><svg><path transform="translate(480,180) translate(30,30) rotate(90) translate(-30,-30)" class="fill-6" d="M60 0v60H0V0z"></path><path transform="translate(480,180) translate(30,30) rotate(90) translate(-30,-30)" class="fill-8" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="
+    translate(480, 240)
+    " d="M0 0h60v60H0z" class="fill-6"></path></svg><svg><path transform="
+    translate(480, 300)
+    " d="M0 0h60v60H0z" class="fill-7"></path></svg><svg><path transform="translate(480, 360) translate(30,30) rotate(270) translate(-30,-30)" class="fill-8" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(480, 360) translate(30,30) rotate(270) translate(-30,-30)" class="fill-1"></circle></svg><svg><path transform="translate(480,420) translate(30,30) rotate(180) translate(-30,-30)" class="fill-7" d="M60 0v60H0V0z"></path><path transform="translate(480,420) translate(30,30) rotate(180) translate(-30,-30)" class="fill-9" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(480, 480)
+    " class="fill-1
+    "></circle></svg><svg><path transform="translate(28800, 32400 translate(30,30) rotate(90) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-5"></path></svg><svg><path transform="translate(540,0) translate(30,30) rotate(270) translate(-30,-30)" class="fill-7" d="M60 0v60H0V0z"></path><path transform="translate(540,0) translate(30,30) rotate(270) translate(-30,-30)" class="fill-2" d="M60 0v60H0C0 26.863 26.863 0 60 0z"></path></svg><svg><path transform="translate(540, 60) translate(30,30) rotate(270) translate(-30,-30)" class="fill-3" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(540, 60) translate(30,30) rotate(270) translate(-30,-30)" class="fill-3"></circle></svg><svg><path transform="translate(540, 120) translate(30,30) rotate(90) translate(-30,-30)" class="fill-7" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(540, 120) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4"></circle></svg><svg><path transform="translate(32400, 10800 translate(30,30) rotate(0) translate(-30,-30)" d="M0 60C33.1371 60 60 33.1371 60 5.24537e-06L5.24537e-06 0L0 60Z" class="fill-7"></path></svg><svg><path transform="translate(540, 240) translate(30,30) rotate(90) translate(-30,-30)" class="fill-4" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(540, 240) translate(30,30) rotate(90) translate(-30,-30)" class="fill-3"></circle></svg><svg><path transform="
+    translate(540, 300)
+    " d="M0 0h60v60H0z" class="fill-2"></path></svg><svg><path transform="translate(540, 360) translate(30,30) rotate(0) translate(-30,-30)" class="fill-5" d="M0 0h60v60H0z"></path><circle cx="30" cy="30" r="30" transform="translate(540, 360) translate(30,30) rotate(0) translate(-30,-30)" class="fill-5"></circle></svg><svg><path transform="
+    translate(540, 420)
+    " d="M0 0h60v60H0z" class="fill-3"></path></svg><svg><path transform="
+    translate(540, 480)
+    " d="M0 0h60v60H0z" class="fill-6"></path></svg><svg><circle cx="30" cy="30" r="30" transform="
+    translate(540, 540)
+    " class="fill-4
+    "></circle></svg></svg>

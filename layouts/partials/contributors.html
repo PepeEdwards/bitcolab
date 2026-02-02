@@ -1,0 +1,21 @@
+{{ with .Site.Params.contributors }}
+<section class="py-12 text-center mb-8">
+  <h2 class="text-2xl font-bold mb-2 flex items-center justify-center gap-2">
+    {{ partial "icon.html" "github" }} Contributors
+  </h2>
+  <p class="text-neutral-500 dark:text-neutral-400 mb-6">
+    {{ $.Site.Params.contributorsText }}
+  </p>
+  <div class="flex flex-wrap justify-center gap-6" id="contributors-container">
+    {{ range . }}
+      <div class="contributor-card" data-github="{{ . }}">
+        <a href="https://github.com/{{ . }}" target="_blank" rel="noopener" class="flex flex-col items-center hover:opacity-80 transition-opacity">
+          <img src="https://github.com/{{ . }}.png" alt="@{{ . }}" class="h-16 w-16 rounded-full border-2 border-primary-500 mb-2 bg-neutral-200 dark:bg-neutral-700 object-cover">
+          <span class="text-sm contributor-name">@{{ . }}</span>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</section>
+<script src="{{ "js/contributors.js" | relURL }}" defer></script>
+{{ end }}
