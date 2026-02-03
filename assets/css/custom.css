@@ -1,3 +1,12 @@
+:root {
+  --color-primary: #FF8C7A; /* Example primary color */
+  --color-secondary: #FFD700; /* Example secondary color */
+  --color-accent: #4CAF50; /* Example accent color */
+  --color-background: #F5F5F5; /* Background color */
+  --color-text: #333333; /* Text color */
+  --color-alert: #FF4C4C; /* Alert color */
+}
+
 /* Navbar logo size */
 .main-menu .logo {
   display: inline-block;
@@ -26,30 +35,11 @@
 }
 
 /* Contributor cards - disable zoom/scale effects */
-.contributor-card img {
+/* .contributor-card img {
   pointer-events: none;
   height: 5rem;
   width: 5rem;
-}
-
-/* Bit-0 page - remove max-width constraints completely */
-article:has(.bit0-section) .prose,
-article:has(.bit0-section),
-.prose:has(.bit0-section),
-:has(.bit0-section) {
-  max-width: none !important;
-}
-
-/* Bit-0 hero section responsive layout */
-.bit0-section {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-  align-items: center;
-  margin-bottom: 2rem;
-  max-width: none !important;
-  width: 100% !important;
-}
+} */
 
 /* Desktop layout - image on right */
 @media (min-width: 768px) {
@@ -72,4 +62,62 @@ article:has(.bit0-section),
   .bit0-hero {
     max-width: 400px;
   }
+}
+
+/* Bit-0 page - remove prose width constraint to use full horizontal space */
+.prose .max-w-prose {
+  max-width: 100%;
+}
+
+/* Figure sizing - override Blowfish defaults with explicit pixel values */
+figure[class*="w-25"],
+figure.w-25 {
+  max-width: 25% !important;
+  width: 25% !important;
+}
+
+figure[class*="w-33"],
+figure.w-33 {
+  max-width: 33% !important;
+  width: 33% !important;
+}
+
+figure[class*="w-50"],
+figure.w-50 {
+  max-width: 50% !important;
+  width: 50% !important;
+}
+
+figure[class*="w-75"],
+figure.w-75 {
+  max-width: 75% !important;
+  width: 75% !important;
+}
+
+figure[class*="w-100"],
+figure.w-100 {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Named sizes with explicit pixels */
+figure.figure-small {
+  max-width: 200px !important;
+  width: 200px !important;
+}
+
+figure.figure-medium {
+  max-width: 400px !important;
+  width: 400px !important;
+}
+
+figure.figure-large {
+  max-width: 800px !important;
+  width: 800px !important;
+}
+
+/* Ensure images inside figures also respect the sizing */
+figure img {
+  max-width: 100% !important;
+  height: auto !important;
 }

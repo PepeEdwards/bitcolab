@@ -10,7 +10,7 @@ categories: ["General"]
 
 ## ¡Hola, mundo! 👋
 
-Bienvenidos a **BitCoLab**, un laboratorio digital donde las ideas se transforman en prototipos.
+**BitCoLab** es nuestro laboratorio digital donde jugar y probar tecnologías de código abierto.
 
 Este es un espacio dedicado a:
 
@@ -20,19 +20,16 @@ Este es un espacio dedicado a:
 
 ## ¿Qué encontrarás aquí?
 
-En este blog compartiré:
-
 1. **Tutoriales y guías** paso a paso
-2. **Proyectos experimentales** con código abierto
+2. **Proyectos experimentales** con código abierto: muchos buscan "hackear" hardware, probar herramientas de código abierto y trabajar con hardware abierto para crear prototipos accesibles
 3. **Reflexiones** sobre desarrollo y tecnología
-4. **Recursos útiles** que he descubierto
+4. **Recursos útiles** que vamos descubriendo
+5. **Noticias y avances** sobre algunos de los proyectos que nacieron en BitCoLab
 
-## El viaje comienza
+## Todo comienza desde una parte
 
-Cada gran proyecto empieza con una idea simple. Este blog es el primer paso de un viaje de exploración y aprendizaje continuo.
-
-¡Gracias por acompañarme en esta aventura! 🚀
+Cada gran proyecto empieza con una simple idea. Este blog es para ayudar con la exploración y aprendizaje, para que juntos llevemos esas ideas a su primer prototipo 🚀🌙
 
 ---
 
-*¿Tienes alguna idea o sugerencia? ¡Me encantaría escucharla!*
+*¿Te gustaría participar? ¿Tienes alguna nueva idea? ¡Nos encantaría escucharte!*
