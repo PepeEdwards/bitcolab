@@ -1,14 +1,18 @@
 ---
-title: "Guía: Usar ADB para acceder a Bit-0 desde tu computador"
+title: "Guía: Usar ADB para trabajar con Bit-0 desde tu computador"
 date: 2026-02-03T12:00:00-03:00
+featureimage: "img/featured-3.svg"
 draft: false
 description: "Instala ADB, configura los drivers y abre una terminal para mover archivos y navegar la consola Bit-0."
 tags: ["bit-0", "v0.1", "adb", "guía"]
 categories: ["Tutoriales"]
 ---
-## Algo de contexto
 
-<!-- Sugerencia de imagen: Bit-0 conectada por USB a un computador, con un terminal abierto. -->
+<div style="max-width: 60%; margin: 0 auto;">
+{{< figure src="./gallery/adb_shell_bit_0.jpeg" alt="Adb Shell Bit-0">}}
+</div>
+
+## Algo de contexto
 
 Esta guía te muestra **cómo instalar ADB** (una herramienta para “hablar” con Bit-0) y abrir una consola desde tu computador. Asumimos que ya sabes qué es Bit-0 y que tienes una unidad con nuestra imagen de **Buildroot**.
 
@@ -50,8 +54,6 @@ cd C:\adb
 
 ## 2. Instalar drivers de la placa (para que ADB la reconozca) 🔧
 
-<!-- Sugerencia de imagen: captura de “Administrador de dispositivos” en Windows mostrando el dispositivo USB. -->
-
 Este paso es **clave en Windows**. Piensa en los drivers como un “traductor” que le dice al computador qué dispositivo conectaste.
 
 ### Windows (recomendado)
@@ -62,9 +64,7 @@ Este paso es **clave en Windows**. Piensa en los drivers como un “traductor”
 3. Descomprime el ZIP y abre el programa.
 4. Haz clic en **Install Driver**.
 
-![RK Driver Assistant](gallery/rk-driver-assistant.png "RK Driver Assistant")
-
-<!-- Agregar aquí la imagen entregada del RK Driver Assistant. -->
+![RK Driver Assistant](gallery/Luckfox-Pico-RKDriver.png "RK Driver Assistant")
 
 ## 3. Verificar conexión con ADB 🔌
 
@@ -103,18 +103,18 @@ Verás un prompt similar a:
 
 Aquí tienes una lista corta de comandos útiles. Son los típicos para moverse, ver cosas y ordenar archivos:
 
-| Comando | Qué hace | Ejemplo |
-| --- | --- | --- |
-| `pwd` | Muestra la ruta actual | `pwd` |
-| `ls` | Lista archivos | `ls -la` |
-| `cd` | Cambia de carpeta | `cd /root` |
-| `mkdir` | Crea carpeta | `mkdir proyectos` |
-| `cat` | Muestra contenido | `cat archivo.txt` |
-| `cp` | Copia archivos | `cp origen destino` |
-| `mv` | Mueve o renombra | `mv viejo.txt nuevo.txt` |
-| `rm` | Elimina archivos | `rm archivo.txt` |
-| `df -h` | Muestra espacio | `df -h` |
-| `exit` | Sale del shell | `exit` |
+| Comando | Qué hace               | Ejemplo                  |
+| ------- | ---------------------- | ------------------------ |
+| `pwd`   | Muestra la ruta actual | `pwd`                    |
+| `ls`    | Lista archivos         | `ls -la`                 |
+| `cd`    | Cambia de carpeta      | `cd /root`               |
+| `mkdir` | Crea carpeta           | `mkdir proyectos`        |
+| `cat`   | Muestra contenido      | `cat archivo.txt`        |
+| `cp`    | Copia archivos         | `cp origen destino`      |
+| `mv`    | Mueve o renombra       | `mv viejo.txt nuevo.txt` |
+| `rm`    | Elimina archivos       | `rm archivo.txt`         |
+| `df -h` | Muestra espacio        | `df -h`                  |
+| `exit`  | Sale del shell         | `exit`                   |
 
 > [!TIP]
 > Puedes subir un nivel con `cd ..` y ver dónde estás con `ls`.
