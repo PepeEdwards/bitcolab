@@ -1,6 +1,7 @@
 ---
 title: "Guía: Instalar Pico-8 en Bit-0"
 date: 2026-02-04T12:00:00-03:00
+featureimage: "img/featured-2.svg"
 draft: false
 description: "Aprende a instalar Pico-8 en Bit-0 usando ADB y a crear un script para lanzarlo en pantalla completa."
 tags: ["bit-0", "v0.1", "pico-8", "guía"]
@@ -21,6 +22,9 @@ categories: ["Tutoriales"]
 
 > ✅ **Idea rápida:** si estás empezando, puedes probar la versión web gratis y luego comprar la versión ejecutable cuando quieras instalarlo en tu Bit-0.
 
+
+![Colección de carts en Splore](https://www.lexaloffle.com/bbs/files/1/splore.gif)
+
 ### Un poquito de comunidad ✨
 
 Pico-8 tiene una comunidad enorme y súper creativa. Hay **miles de juegos**, tutoriales y cartuchos gratis. Algunos ejemplos populares:
@@ -32,10 +36,7 @@ Pico-8 tiene una comunidad enorme y súper creativa. Hay **miles de juegos**, tu
 
 > 🧠 **Dato curioso:** el primer *Celeste* fue un prototipo corto hecho en Pico-8. ¡Después se convirtió en un juego súper conocido en consolas y PC!
 
-Aquí tienes un par de gifs para inspirarte:
-
-![Gameplay de Celeste Classic](https://www.lexaloffle.com/bbs/files/1/celeste.gif)
-![Colección de carts en Splore](https://www.lexaloffle.com/bbs/files/1/splore.gif)
+![Gameplay de Celeste Classic](https://www.lexaloffle.com/media/58769/TechTeach_1.gif)
 
 ## Antes de comenzar ✅
 

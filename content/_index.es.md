@@ -14,8 +14,9 @@ description: "From ideas to prototypes, this is a place for mad experiments"
   <h1 class="text-4xl font-extrabold mb-2">BitCoLab</h1>
 
   <!-- Description -->
-  <p class="text-xl text-neutral-500 dark:text-neutral-400 max-w-xl mb-2">
-    Llevando ideas a prototipos, este lugar es para mostrar algunos de <strong> nuestros experimentos </strong>
+  <p class="text-xl text-neutral-500 dark:text-neutral-400 max-w-xl">
+    ¡Hola! Este es un lugar para compartir ideas, proyectos y <strong>experimentos de electronica y programación</strong><br>
+    ¡Muchas gracias por pasar por aquí!
   </p>
 
   <!-- Hamster GIF -->
