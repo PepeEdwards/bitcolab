@@ -39,7 +39,7 @@ Para esto necesitaremos:
 * Un adaptador para conectarla en el computador.
 
 > [!IMPORTANT]
-> La capacidad de la memoria SD debe ser idealmente de 64gb o menos, las memorias más grandes pueden tardar mucho en leer o directamente no funcionar.
+> La capacidad de la memoria SD debe ser idealmente de 64 GB o menos, las memorias más grandes pueden tardar mucho en leer o directamente no funcionar.
 
 {{< gallery >}}
   <img src="gallery/4gb_sd_card.png" class="grid-w33" />
@@ -49,9 +49,9 @@ Para esto necesitaremos:
 
 ## 1. Preparar la memoria SD 💾
 
-Conecta la memoria SD al computador y **formatéala** en **FAT32** o **exFAT**. Debe quedar limpia y sin ningún archivo.
+Conecta la memoria SD al computador y **formatea** en **FAT32** o **exFAT**. Debe quedar limpia y sin ningún archivo.
 
-Existen multiples guías de como hacer esto dependiendo de que computador estén usando, Windows, Mac, Linux...
+Existen múltiples guías de cómo hacer esto dependiendo de qué computador estén usando, Windows, Mac, Linux...
 
 {{< youtubeLite id="OY28ANg_4hM" label="How to format an SD" >}}
 
@@ -69,7 +69,7 @@ Dentro de él va (en una sola línea) la ruta donde se guardarán tus juegos:
 ./root/pico-8/carts/
 ```
 
-> ✅ **Tip:** asegúrate de que el archivo se llame exactamente `dir.txt` (sin `.txt.txt`) aveces los sistemas operativos no incluyen el formato en el nombre, siempre podrán revisar como se llama finalmente revisando las propiedades del archivo.
+> ✅ **Tip:** asegúrate de que el archivo se llame exactamente `dir.txt` (sin `.txt.txt`) a veces los sistemas operativos no incluyen el formato en el nombre, siempre podrán revisar cómo se llama finalmente revisando las propiedades del archivo.
 
 ## 3. Agregar juegos 🕹️
 
@@ -81,7 +81,7 @@ Dentro de la raíz de la memoria SD podrás agregar los juegos que quieras. Para
 {{< figure src="./gallery/Descargar_Pico_8.gif" alt="Descargar Juegos Pico-8" caption="Preview como descargar Carts de Pico-8" >}}
 </div>
 
-Una vez tengamos nuestros juegos y agregamos nuestro archivo `dir.txt` la raíz de la memoria debería tener más o menos esta estructura:
+Una vez que tengamos nuestros juegos y hayamos agregado nuestro archivo `dir.txt`, la raíz de la memoria debería tener más o menos esta estructura:
 <div style="max-width: 70%; margin: 0 auto;">
 {{< figure src="./gallery/estructura_memoria_SD.png" alt="Estructura Memoria SD" caption="Los archivos deben ser formato `.png` y encontrarse en la raíz de la memoria">}}
 </div>
@@ -112,7 +112,7 @@ Y listo. Si lees la respuesta, te dirá que los juegos se copiaron en la carpeta
 
 ## 5. Abrir juegos y jugar ✨
 
-Desde tú consola en Bit-0 abre pico-8 con el comando:
+Desde tu consola en Bit-0 abre pico-8 con el comando:
 
 ```bash
 pico8
@@ -124,7 +124,7 @@ Dentro del terminal de Pico-8 ejecuta:
 ls
 ```
 
-Veras un listado de los juegos que se copiaron. Ahora para ejecutarlo simplemente le damos a:
+Verás un listado de los juegos que se copiaron. Ahora para ejecutarlo simplemente le damos a:
 
 ```
 load nombre-del-juego.p8.png
@@ -135,7 +135,7 @@ run
 {{< figure src="./gallery/load_a_game.gif" alt="Cargar un Juego Copiado en la Consola" caption="Preview como cargar Carts copiados en Pico-8" >}}
 </div>
 
-¡Y listo! ahora podrás disfrutar de diferentes juegos hechos por la comunidad. No olviden indagar en el código de sus juegos favoritos y siempre partir desde la pregunta: 
+¡Y listo! Ahora podrás disfrutar de diferentes juegos hechos por la comunidad. No olviden indagar en el código de sus juegos favoritos y siempre partir desde la pregunta: 
 
 > 👍 Success
 >
@@ -145,7 +145,7 @@ run
 
 * Los juegos tienen que estar siempre en formato **`.png`**. Esto es porque el comando `card copy` solo considera los archivos que tienen ese formato.
 * Si quieres traer uno de tus programas en formato **`.p8`**, lo único que debes hacer es renombrarlo y agregar **`.png`** al final (ejemplo: `mi_programa.p8.png`).
-* Si mi consola no lée la memoria puede deberse o a que este mal formateada, sea de una capacidad muy grande o exista algún defecto con sus consolas.
+* Si mi consola no lee la memoria puede deberse a que esté mal formateada, sea de una capacidad muy grande o exista algún defecto con sus consolas.
 
 > ✅ **Checklist rápida**
 >
