@@ -9,7 +9,7 @@ categories: ["Tutoriales"]
 
 ## Algo de contexto
 
-**Pico-8** es una *fantasy console*: un programa que simula una consola retro para crear juegos chiquitos con límites divertidos (como si fueran cartuchos mágicos). Está pensado para que cualquiera pueda **programar, dibujar y hacer música** en un solo lugar.
+**Pico-8** es una *fantasy console*: un programa que simula una consola retro para crear juegos con límites creativos (como si fueran cartuchos clásicos). Está pensado para que cualquiera pueda **programar, dibujar y hacer música** en un solo lugar.
 
 * Página oficial: https://www.lexaloffle.com/pico-8.php
 * Versión educativa en la web (gratis): https://www.pico-8-edu.com/
@@ -30,7 +30,7 @@ Pico-8 tiene una comunidad enorme y súper creativa. Hay **miles de juegos**, tu
 * **Pico Racer** (carreras retro).
 * **Just One Boss** (peleas estilo arcade).
 
-> 🧠 **Anecdotita divertida:** el primer *Celeste* fue un prototipo chiquito hecho en Pico-8. ¡Después se convirtió en un juego súper famoso en consolas y PC!
+> 🧠 **Dato curioso:** el primer *Celeste* fue un prototipo corto hecho en Pico-8. ¡Después se convirtió en un juego súper conocido en consolas y PC!
 
 Aquí tienes un par de gifs para inspirarte:
 
@@ -74,7 +74,7 @@ adb push ./pico-8/* /root/pico-8/
 
 ## 3. Crear un archivo `.sh` para lanzar Pico-8 🧩
 
-Un archivo **`.sh`** es un pequeño **script** (lista de instrucciones) que la consola puede ejecutar como si fuera un botón mágico. Aquí definimos cómo debe iniciar Pico-8 en la pantalla de Bit-0.
+Un archivo **`.sh`** es un **script** (lista de instrucciones) que la consola puede ejecutar. Aquí definimos cómo debe iniciar Pico-8 en la pantalla de Bit-0.
 
 Crea un archivo llamado `pico8.sh` con este contenido:
 
