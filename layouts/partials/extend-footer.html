@@ -1,0 +1,7 @@
+{{ with .Site.Params.contactEmail }}
+  <p class="text-sm text-neutral-500 dark:text-neutral-400 mt-2">
+    {{ with $.Site.Params.contactMessage }}{{ . }} {{ end }}
+    <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+      href="mailto:{{ . }}">{{ . }}</a>
+  </p>
+{{ end }}

@@ -1,6 +1,7 @@
 ---
 title: "BitCoLab"
 description: "Coming from ideas and prototypes, this is a space for our crazy and mad experiments"
+draft: true
 ---
 
 <div class="flex flex-col items-center justify-center text-center">

@@ -1,6 +1,6 @@
 ---
 title: "BitCoLab"
-description: "From ideas to prototypes, this is a place for mad experiments"
+description: "From ideas to prototypes, this is a place for crazy experiments"
 ---
 
 <div class="flex flex-col items-center justify-center text-center">

@@ -1,7 +1,7 @@
 ---
 title: "Mi Primer Proyecto"
 date: 2026-02-01T12:30:00-03:00
-draft: false
+draft: true
 description: "Un proyecto de ejemplo para demostrar la estructura de BitCoLab."
 tags: ["demo", "ejemplo"]
 categories: ["Proyectos"]
