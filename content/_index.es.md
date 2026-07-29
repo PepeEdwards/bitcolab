@@ -15,8 +15,7 @@ description: "From ideas to prototypes, this is a place for crazy experiments"
 
   <!-- Description -->
   <p class="text-xl text-neutral-500 dark:text-neutral-400 max-w-xl">
-    ¡Hola! Este es un lugar para compartir ideas, proyectos y <strong>experimentos de electronica y programación</strong><br>
-    ¡Muchas gracias por pasar por aquí!
+    ¡Hola! Este es un lugar para compartir </br> <strong>ideas, proyectos y experiencias.</strong>
   </p>
 
   <!-- Hamster GIF -->
